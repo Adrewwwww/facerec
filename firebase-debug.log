@@ -1,0 +1,25 @@
+[debug] [2023-12-21T17:52:14.834Z] ----------------------------------------------------------------------
+[debug] [2023-12-21T17:52:14.840Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\William Adrew\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-21T17:52:14.841Z] CLI Version:   13.0.2
+[debug] [2023-12-21T17:52:14.841Z] Platform:      win32
+[debug] [2023-12-21T17:52:14.842Z] Node Version:  v21.2.0
+[debug] [2023-12-21T17:52:14.842Z] Time:          Fri Dec 22 2023 01:52:14 GMT+0800 (Taipei Standard Time)
+[debug] [2023-12-21T17:52:14.842Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-21T17:52:14.958Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-21T17:52:14.982Z] > authorizing via signed-in user (williamadrewcatungal@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\William Adrew\Documents\camera
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
